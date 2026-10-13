@@ -6,7 +6,6 @@ function LandingPage({ onOpenInvitation }) {
         <p className="eyebrow serif">A Celebration of Love</p>
         <div className="hero-portrait" aria-label="Wedding portrait placeholder"></div>
         <h1 className="hero-title serif">Christine <span>&</span> Mayukha</h1>
-        <p className="hero-date">27th January 2027</p>
 
         <button type="button" className="primary-button hero-button" onClick={onOpenInvitation}>
           Open Wedding Invitation
